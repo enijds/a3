@@ -1,4 +1,13 @@
-/* Convenções de nomenclatura em Java (nomes de variáveis, métodos, classes, constantes, pacotes e arquivos):
+/*
+
+Sincronicação com o GitHub:
+
+Associando o GitHub no Visual Studio Code
+https://www.youtube.com/watch?v=peGUkhXD3Vw
+
+
+
+Convenções de nomenclatura em Java (nomes de variáveis, métodos, classes, constantes, pacotes e arquivos):
 Variáveis locais e parâmetros (camelCase)             : int totalPreco; String nomeUsuario; float mediaNotas; boolean pedidoConfirmado;
 Variáveis de instância (camelCase)                    : private long idTransacao; protected double saldoAtual;
 Métodos (camelCase, verbos descritivos)               : void calcularTotal() {...} String buscarCliente(int id) {...} int gerarRelatorioAnual() {...} void atualizarEstoque(Produto item) {...}
@@ -15,10 +24,6 @@ package Academia;
 
 import java.util.Scanner;
 
-/**
- *
- * @author enio
- */
 public class App {
 
     // Classe principal do aplicativo, onde a execução começa.

@@ -22,7 +22,7 @@ lib/jna-platform-5.9.0-jpms.jar
 lib/jna.jar
 lib/win32-x86-64.jar
 lib/win32-x86.jar
-
+#Alteração
 
 # Ignorar arquivos específicos
 build.xml
