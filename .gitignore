@@ -1,0 +1,30 @@
+# arquivos 
+# build.xml
+# Ignorar configurações do VS Code
+.vscode/
+
+# Pastas ignoradas pelo Git
+bin/
+build/
+dist/
+nbproject/
+Obsoletos/
+src/a3/
+src/Images/
+test/
+
+# Ignorar toda a pasta lib/
+# lib/
+lib/jna-5.9.0-javadoc.jar
+lib/jna-platform-5.9.0-javadoc.jar
+lib/jna-5.9.0-jpms.jar
+lib/jna-platform-5.9.0-jpms.jar
+lib/jna.jar
+lib/win32-x86-64.jar
+lib/win32-x86.jar
+
+
+# Ignorar arquivos específicos
+build.xml
+*.class
+*.log
